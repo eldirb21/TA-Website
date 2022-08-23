@@ -1,0 +1,73 @@
+const datas = [
+  {
+    ID: 1,
+    Name: 'Dakota Rice',
+    Salary: '$36,738',
+    Country: 'Niger',
+    City: 'Oud-Turnhout',
+  },
+  {
+    ID: 2,
+    Name: 'Minerva Hooper',
+    Salary: '$36,738',
+    Country: 'Curaçao',
+    City: 'Sinaai-Waas',
+  },
+  {
+    ID: 3,
+    Name: 'Dakota Rice',
+    Salary: '$36,738',
+    Country: 'Niger',
+    City: 'Oud-Turnhout',
+  },
+  {
+    ID: 4,
+    Name: 'Dakota Rice',
+    Salary: '$36,738',
+    Country: 'Niger',
+    City: 'Oud-Turnhout',
+  },
+  {
+    ID: 5,
+    Name: 'Dakota Rice',
+    Salary: '$36,738',
+    Country: 'Niger',
+    City: 'Oud-Turnhout',
+  },
+  {
+    ID: 6,
+    Name: 'Dakota Rice',
+    Salary: '$36,738',
+    Country: 'Niger',
+    City: 'Oud-Turnhout',
+  },
+  {
+    ID: 7,
+    Name: 'Minerva Hooper',
+    Salary: '$36,738',
+    Country: 'Curaçao',
+    City: 'Sinaai-Waas',
+  },
+  {
+    ID: 8,
+    Name: 'Dakota Rice',
+    Salary: '$36,738',
+    Country: 'Niger',
+    City: 'Oud-Turnhout',
+  },
+  {
+    ID: 9,
+    Name: 'Dakota Rice',
+    Salary: '$36,738',
+    Country: 'Niger',
+    City: 'Oud-Turnhout',
+  },
+  {
+    ID: 10,
+    Name: 'Dakota Rice',
+    Salary: '$36,738',
+    Country: 'Niger',
+    City: 'Oud-Turnhout',
+  },
+]
+export default datas
